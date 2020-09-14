@@ -1,4 +1,4 @@
-# react30_6_quotes_generation_backend
+# react30_7_quotes_generation_frontend
 Quotes Generation frontend using react.js hooks
 
 ### Objective:
