@@ -7,6 +7,9 @@ Make a quote generation app using react hooks
 ### Learnings:
 How to use make use of useEffect hook
 
+### Solution   
+[Solution 1](https://github.com/codeclassifiers/react30_7_quotes_generation_frontend/tree/master/solution_1)  
+<img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1603683007/Blogimages/Untitled_kqoytt.gif" />
 ## Available Scripts
 
 In the project directory, you can run:
